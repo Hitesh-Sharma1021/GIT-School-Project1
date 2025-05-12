@@ -7,6 +7,11 @@ a=readmod.readcsv("file1.csv","n")
 # readmod.readcsv("file1 copy 2.csv","n")
 '''
 # Write Module
-
+'''
+import writemod
+writemod.writecsv("file1 copy 2.csv")
+'''
+# Append Module
+import appendmod
 
 
