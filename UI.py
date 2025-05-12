@@ -12,6 +12,7 @@ import writemod
 writemod.writecsv("file1 copy 2.csv")
 '''
 # Append Module
+'''
 import appendmod
-
-
+appendmod.appendcsv("file1 copy.csv")
+'''
